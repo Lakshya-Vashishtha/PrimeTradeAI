@@ -1,0 +1,39 @@
+# Backend - Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/create_db.py
+backend/test_db.py
+
+# Frontend - Node/React
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Node
+node_modules/
+
+# Build
+dist/
+build/
+
+# Env
+.env
+
+# Logs
+*.log
+
+
+# IDE / System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
